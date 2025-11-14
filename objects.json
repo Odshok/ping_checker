@@ -1,0 +1,16 @@
+{
+  "kinetik1":
+      {
+        "addr": "https://ya.ru",
+        "available": true,
+        "information": "yandex"
+      },
+
+  "kinetik2":
+      {
+        "addr": "https://randomurlnotallow.com",
+        "available": true,
+        "information": "randomurl"
+      }
+
+}
